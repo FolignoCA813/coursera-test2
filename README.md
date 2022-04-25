@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages 
+It's good to start learning Code of some kind!
 
 You can use the [editor on GitHub](https://github.com/FolignoCA813/coursera-test2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
